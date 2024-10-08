@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: lightpink;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
     
@@ -7,10 +7,10 @@ p {
     color: blue;
     font-size: 36px;
 }
-#num3 {
+.odd.odd1 {
     font-size: 24px;
 }
-.num4 {
+#num4{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
